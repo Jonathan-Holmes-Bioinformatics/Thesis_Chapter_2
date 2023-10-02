@@ -13,7 +13,7 @@ The code used is listed as follows:
 
 Algorithm_V1.1.py            <- Sweep corection algorithm
 
-InSilicoAnalysis.py          <- In silico comparison of single colonies and sweep data collection
+InSilicoAnalysis.py          <- In silico comparison of single colonies and sweep data collection\n
 
 In_Vitro_Data.csv            <- In vitro experimental data  
 
