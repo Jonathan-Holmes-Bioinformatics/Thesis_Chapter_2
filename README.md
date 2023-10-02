@@ -1,7 +1,7 @@
 # Thesis Chapter 3
 Thesis Chapter Code:
 
-This repository contains the code used in chapter 3 of the thesis: Understanding how mutability facilitates survival of alterna􀆟ng selec􀆟on and botlenecks by the major food-borne pathogen Campylobacter jejuni (2023)
+This repository contains the code used in chapter 3 of the thesis: Understanding how mutability facilitates survival of alternating selection and botlenecks by the major food-borne pathogen Campylobacter jejuni (2023)
 and from:
 Jonathan Holmes, Lickson Munjoma, Christopher D. Bayliss,
 Novel method for prediction of combinatorial phase-variable gene expression states,
