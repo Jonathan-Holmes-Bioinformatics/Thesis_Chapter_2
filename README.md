@@ -19,7 +19,7 @@ In_Vitro_Data.csv            <- In vitro experimental data
 
 in_vitro_data_comp.py        <- In vitro comparison script for sweep and single colonies
 
-missing_data_in_invitro.py   <- Simulation of sweep errors for the in vitro data
+Sweep_Error.py   <- Simulation of sweep errors for the in vitro data
 
 
 The sweep - correction algorithm can be run using:
