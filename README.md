@@ -12,9 +12,13 @@ Volume 11,
 The code used is listed as follows:
 
 Algorithm_V1.1.py            <- Sweep corection algorithm
+
 InSilicoAnalysis.py          <- In silico comparison of single colonies and sweep data collection
+
 In_Vitro_Data.csv            <- In vitro experimental data  
+
 in_vitro_data_comp.py        <- In vitro comparison script for sweep and single colonies
+
 missing_data_in_invitro.py   <- Simulation of sweep errors for the in vitro data
 
 
